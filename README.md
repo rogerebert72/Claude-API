@@ -166,7 +166,7 @@ To rename a chat conversation, you can use the rename_chat method:
 
 This project provides an unofficial API for Claude AI and is not affiliated with or endorsed by Claude AI or Anthropic. Use it at your own risk.
 
-Please refer to the official Claude AI documentation[https://claude.ai/docs] for more information on how to use Claude AI.
+Please refer to the official Claude AI documentation[https://claude.ai/docs] for more information on [how to use Claude AI](https://claudeai.guru/how-to-talk-to-claude-ai/)
         
     
 
